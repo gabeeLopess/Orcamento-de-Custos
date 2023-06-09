@@ -1,0 +1,12 @@
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\bin\Debug\FrmOrcamentoCusto.exe.config
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\bin\Debug\FrmOrcamentoCusto.exe
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\bin\Debug\FrmOrcamentoCusto.pdb
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.csproj.AssemblyReference.cache
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.FrmSelecionarEmpresa.resources
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.FrmOrcamentoCusto.resources
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.Properties.Resources.resources
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.csproj.GenerateResource.cache
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.csproj.CoreCompileInputs.cache
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.exe
+C:\Users\estagiario2\Documents\GitHub\FrmOrcamentoCusto\FrmOrcamentoCusto\obj\Debug\FrmOrcamentoCusto.pdb
